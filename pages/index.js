@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, my name is Kaleab Tesfu. I am a Juniour Programmer as well as a Web &
+          Hi, my name is Kaleab Tesfu. I am a computer Programmer as well as a Web &
           Game Developer. Sit back, relax and enjoy the ride. P.s. Don't feed
           the animals
         </p>
